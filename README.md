@@ -75,28 +75,16 @@ PROCEDURE - (LPF):
 
 
 ## TABULATION
+![WhatsApp Image 2025-11-23 at 15 01 26_86331534](https://github.com/user-attachments/assets/e1c9e82b-76dc-462f-ab06-e96102cda073)
 
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
-		
+
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
----
+---![WhatsApp Image 2025-11-23 at 14 12 16_6e6e5445](https://github.com/user-attachments/assets/6b017cc3-72fe-41f4-b786-b401f941c50d)
+
 
  ## 6 B HIGH PASS FILTER
 
@@ -158,26 +146,13 @@ PROCEDURE - ( HPF):
 
 
 ## TABULATION
+![WhatsApp Image 2025-11-23 at 15 01 27_be2d3693](https://github.com/user-attachments/assets/a77496b2-9c4a-4983-a03d-01dbec81728e)
 
-		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-11-23 at 14 14 04_771d1283](https://github.com/user-attachments/assets/9ffd2aca-96c5-43f1-b709-3b36f44dd0c2)
 
 ---
 
@@ -243,28 +218,16 @@ PROCEDURE:BAND PASS FILTER
 
 
 ## TABULATION
+![WhatsApp Image 2025-11-23 at 15 01 31_5d0f030e](https://github.com/user-attachments/assets/e412c0d3-5d73-479e-9e2f-042dbe70c61d)
 
-		
-| S.No | Frequency (Hz) | Output Voltage (V) | Gain = 20 log (Vo/Vi) (dB) |
-|------|----------------|--------------------|-----------------------------|
-| 1    |                |                    |                             |
-| 2    |                |                    |                             |
-| 3    |                |                    |                             |
-| 4    |                |                    |                             |
-| 5    |                |                    |                             |
-| 6    |                |                    |                             |
-| 7    |                |                    |                             |
-| 8    |                |                    |                             |
-| 9    |                |                    |                             |
-| 10   |                |                    |                             |
-| 11   |                |                    |                             |
-| 12   |                |                    |                             |
+	
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
----
+---![WhatsApp Image 2025-11-23 at 14 11 57_67c5c8b3](https://github.com/user-attachments/assets/f40be57d-2a84-43a9-84f5-01e3e0b7790f)
+
 ##RESULT:
 	Thus an Active Low pass, High pass and Band Pass Filters are designed and
 tested using op-amp IC 741.
