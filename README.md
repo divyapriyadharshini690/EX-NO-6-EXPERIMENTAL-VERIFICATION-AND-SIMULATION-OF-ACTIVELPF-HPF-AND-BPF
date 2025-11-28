@@ -40,13 +40,12 @@ A LPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ---
 ## CIRCUIT DIAGRAM
-<img width="836" height="455" alt="image" src="https://github.com/user-attachments/assets/e5181151-836f-4f80-8f56-53b23ff05c74" />
+![WhatsApp Image 2025-11-28 at 08 56 52_a0c47d7c](https://github.com/user-attachments/assets/24e5c633-4e3f-43af-9a15-bdbac754a9ce)
 
 
 ## MODEL GRAPH
-<img width="913" height="559" alt="image" src="https://github.com/user-attachments/assets/c8d28c41-6f3e-44a6-a9da-2b798cf07346" />
+![WhatsApp Image 2025-11-28 at 08 57 09_c27ed8c9](https://github.com/user-attachments/assets/661ce483-6b99-4825-a65e-9a5d0216891b)
 
----
 
 ## DESIGN
 
@@ -107,14 +106,13 @@ A HPF allows frequencies from 0 to higher cut of frequency, fH. At fH the gain i
 
 ## CIRCUIT DIAGRAM
 
-<img width="887" height="486" alt="image" src="https://github.com/user-attachments/assets/907a1395-28d4-406f-ac09-96c4e060587e" />
+![WhatsApp Image 2025-11-28 at 08 57 49_88f4dc2b](https://github.com/user-attachments/assets/d1c98105-57b0-4002-8669-0a40366ecf57)
 
 
 ## MODEL GRAPH
 
-<img width="1005" height="382" alt="image" src="https://github.com/user-attachments/assets/22925efc-4abc-4fad-90d5-94f3348c3c0b" />
+![WhatsApp Image 2025-11-28 at 08 58 11_5c0513b4](https://github.com/user-attachments/assets/586c0800-edb4-4d13-a672-6b168448437d)
 
----
 
 ## DESIGN
 
@@ -178,15 +176,13 @@ A BPF allows frequencies in between lower cut of frequency and higher cut of fre
 
 
 ## CIRCUIT DIAGRAM
+![WhatsApp Image 2025-11-28 at 08 58 55_936ba6ef](https://github.com/user-attachments/assets/b1af5308-9a88-45be-b85b-33ec41bdb2cb)
 
-<img width="1068" height="446" alt="image" src="https://github.com/user-attachments/assets/ee37b95a-05ea-448c-9102-111e071e41e8" />
 
 ## MODEL GRAPH
 
-<img width="1055" height="537" alt="image" src="https://github.com/user-attachments/assets/f5eec55a-c00c-4eaf-a680-81ba95f66490" />
+![WhatsApp Image 2025-11-28 at 08 59 20_e5ce302d](https://github.com/user-attachments/assets/80919435-a280-405e-8756-6772ec95dd50)
 
-
----
 
 ## DESIGN
 
