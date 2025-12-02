@@ -80,6 +80,7 @@ PROCEDURE - (LPF):
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-11-30 at 22 18 37_90199247](https://github.com/user-attachments/assets/feedd9dc-da0a-450d-8f92-5ff949db4004)
+<img width="722" height="993" alt="DD LPF" src="https://github.com/user-attachments/assets/b0355b09-1710-45e2-932e-b0c81d694a93" />
 
 
  ## 6 B HIGH PASS FILTER
@@ -150,6 +151,7 @@ PROCEDURE - ( HPF):
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-11-30 at 22 19 15_561fe7be](https://github.com/user-attachments/assets/8683b0ed-e6bf-48c4-8664-a57ceb029f1b)
+<img width="720" height="993" alt="DD HPF" src="https://github.com/user-attachments/assets/883175ee-91c1-454b-a788-d9cadf47f52b" />
 
 
  ## 6C Band Pass Filter
@@ -221,6 +223,7 @@ PROCEDURE:BAND PASS FILTER
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
 ![WhatsApp Image 2025-11-30 at 22 20 22_9f7670f3](https://github.com/user-attachments/assets/355fdd8f-0ba0-4a56-8485-7d9ac0291871)
+<img width="729" height="993" alt="DD BPF" src="https://github.com/user-attachments/assets/3a698b8b-89f1-4555-bdaf-c999bcb1c89a" />
 
 ---
 ##RESULT:
