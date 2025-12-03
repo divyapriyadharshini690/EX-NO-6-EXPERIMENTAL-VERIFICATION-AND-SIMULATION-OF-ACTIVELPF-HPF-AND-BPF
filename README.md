@@ -142,6 +142,7 @@ PROCEDURE - ( HPF):
 
 
 ## TABULATION
+![WhatsApp Image 2025-12-03 at 23 29 59_87c8e11f](https://github.com/user-attachments/assets/997f340f-89b8-44c4-b25e-1c478f1ae487)
 
 ![WhatsApp Image 2025-11-23 at 15 01 27_e79fd9ab](https://github.com/user-attachments/assets/fabba9e6-7cf4-469b-b06b-8e23d5816102)
 		
@@ -150,7 +151,7 @@ PROCEDURE - ( HPF):
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
-![WhatsApp Image 2025-11-30 at 22 19 15_561fe7be](https://github.com/user-attachments/assets/8683b0ed-e6bf-48c4-8664-a57ceb029f1b)
+
 <img width="720" height="993" alt="DD HPF" src="https://github.com/user-attachments/assets/883175ee-91c1-454b-a788-d9cadf47f52b" />
 
 
@@ -221,8 +222,9 @@ PROCEDURE:BAND PASS FILTER
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![WhatsApp Image 2025-12-03 at 23 30 27_bc17a5ea](https://github.com/user-attachments/assets/14bcc73d-958a-46e2-9933-d49f7e7a10e9)
 
-![WhatsApp Image 2025-11-30 at 22 20 22_9f7670f3](https://github.com/user-attachments/assets/355fdd8f-0ba0-4a56-8485-7d9ac0291871)
+
 <img width="729" height="993" alt="DD BPF" src="https://github.com/user-attachments/assets/3a698b8b-89f1-4555-bdaf-c999bcb1c89a" />
 
 ---
